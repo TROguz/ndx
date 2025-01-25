@@ -1,14 +1,14 @@
 [
   {
-    "title": "Yeni Sürüm Yayınlandı!",
-    "message": "Uygulamanın yeni sürümü indirilmeye hazır. Birçok yeni özellik ve iyileştirme içeriyor."
+    "title": "Yeni Python Eğitimi",
+    "message": "Yeni Python eğitim serimiz başladı!",
+    "video_url": "https://www.youtube.com/watch?v=Pq9HG5zR5OY",
+    "thumbnail_url": "https://www.youtube.com/watch?v=Pq9HG5zR5OY/hqdefault.jpg"
   },
   {
-    "title": "Önemli Duyuru",
-    "message": "10.11.2023 tarihinde sistem bakımı yapılacaktır. Bu süre zarfında uygulamaya erişim kesilebilir."
-  },
-    {
-    "title": "Test Duyurusu",
-    "message": "Bu bir test duyurusudur. Herhangi bir anlamı yoktur."
+    "title": "PyQt ile Arayüz Geliştirme",
+    "message": "PyQt kullanarak arayüz geliştirme hakkında ipuçları.",
+    "video_url": "https://www.youtube.com/watch?v=Pq9HG5zR5OY",
+    "thumbnail_url": "https://www.youtube.com/watch?v=Pq9HG5zR5OY/hqdefault.jpg"
   }
 ]
